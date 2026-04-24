@@ -1,13 +1,24 @@
-# 🧠 Deep Learning Repository
+# 🧠 Deep Learning (Beginner to Practical)
 
-This repository contains my learning journey and practical implementations of **Deep Learning** concepts. It includes theory, code examples, and real-world projects using popular frameworks like TensorFlow and PyTorch.
+This repository contains my journey of learning **Deep Learning from basics to real-world projects**, with clear implementations and hands-on practice.
 
----
+## 🚀 What You'll Find
 
-## 🚀 About Deep Learning
+* Simple and beginner-friendly implementations
+* Neural Networks (ANN, CNN)
+* Practical projects like Digit Recognition
+* Clean and well-structured code
 
-Deep Learning is a subset of Machine Learning that uses **Artificial Neural Networks** to model and solve complex problems such as image recognition, natural language processing, and speech recognition.
+## 💡 Goal
 
----
+To build strong fundamentals and apply deep learning concepts to real-world problems.
 
-## 📂 Repository Structure
+## 🛠️ Tech Stack
+
+Python • TensorFlow • PyTorch • NumPy • Pandas
+
+## 📌 Note
+
+This repository is part of my preparation for **placements and interviews**, focusing on practical understanding over theory.
+
+⭐ Star this repo if you find it helpful!
